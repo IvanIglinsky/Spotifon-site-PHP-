@@ -170,7 +170,7 @@
                                 <h4>listen interesting music</h4>
                             </div>
                             <div class="album-buy-now">
-                                <a href="#" class="btn musica-btn">Details</a>
+                                <a href="php/topCharts.php" class="btn musica-btn">Details</a>
                             </div>
                         </div>
                         <div class="album-all-songs">

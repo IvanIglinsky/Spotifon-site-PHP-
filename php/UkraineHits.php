@@ -245,7 +245,7 @@
             <h4>Search for the Ukraine Hits</h4>
           </div>
           <div class="cta-btn mt-30">
-            <a href="#" class="btn musica-btn">Search</a>
+            <a href="UkraineHits.php" class="btn musica-btn">Search</a>
           </div>
         </div>
       </div>

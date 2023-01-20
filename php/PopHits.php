@@ -20,7 +20,7 @@
         <div class="classy-nav-container breakpoint-off">
             <div class="container-fluid">
                 <nav class="classy-navbar justify-content-between" id="musicaNav">
-                    <a href="index.php" class="nav-brand"><img src="../img/core-img/logo.png" alt=""></a>
+                    <a href="../index.php" class="nav-brand"><img src="../img/core-img/logo.png" alt=""></a>
                     <div class="classy-navbar-toggler">
                         <span class="navbarToggler"><span></span><span></span><span></span></span>
                     </div>
