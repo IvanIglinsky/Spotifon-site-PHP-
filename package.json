@@ -1,0 +1,70 @@
+{
+  "TopChart": [
+    {
+      "name": [
+        "Drake - Nonstop","ArrDee - Flowers","Tech N9ne... - Face Off","Juice WRLD - Cigaretes","Lil Durk - Hanging","Central Cee - Let Go","Drake, 21 Savage - Rich Flex",
+        "Armani White - Billie Eilish","lil Yachty - Poland","Marshmello, Juice WRLD - Bye Bye","Future - Wait for u"
+      ],
+      "way": [
+        "../audio/Drake%20-%20Nonstop.mp3","../audio/arrdee-flowers-say-my-name.mp3","../audio/Tech%20N9ne,%20Joey%20Cool,%20King%20Iso,%20Dwayne%20Johnson%20-%20Face%20Off.mp3"
+      ,"../audio/JuiceWRLD-cigaretes.mp3","../audio/Lil-Durk-Hanging-With-Wolves-(HiphopKit.com).mp3","../audio/central-cee-let-go_456242163.mp3","../audio/21-savage-x-drake-rich-flex_456245357.mp3",
+        "../audio/armani-white-billie-eilish_456240087.mp3","../audio/lil-yachty-poland_456241438.mp3","../audio/marshmello-amp-juice-wrld-bye-bye_456245133.mp3","../audio/New%20track/future-wait-for-u-feat.-drake-amp-tems_456240306.mp3"
+      ]
+    }
+  ],
+  "NewTrack": [
+    {
+      "name": [
+        "Polo G - All my","A$AP Rocky - Shittin Me","Lil Durk - Mad Max","Future - Waite for u","Gunna - pushin P","Travis Scott - Sicko Mode","Drake, 21 Savage - Rich Flex","Future - Trapped in the Sun","Pop smoke - Dior","Marshmello, Juice WRLD - Bye Bye",
+        "Big Baby Tape - Big Tymers"
+      ],
+      "way": [
+        "../audio/New%20track/Polo%20G%20-%20My%20All.mp3","../audio/New%20track/AAP_Rocky_-_Shittin_Me.mp3","../audio/New%20track/Lil-Durk-Mad-Max-ft-Future-(HiphopKit.com).mp3",
+        "../audio/New%20track/future-wait-for-u-feat.-drake-amp-tems_456240306.mp3","../audio/New%20track/Gunna-pushin-P-ft-Future-Young-Thug-(HipHopKit.com).mp3","../audio/New%20track/Travis_Scott_-_Sicko_Mode_ft_Drake_talkglitz.tv.mp3",
+        "../audio/21-savage-x-drake-rich-flex_456245357.mp3","../audio/New%20track/Future-Trapped-in-the-Sun-Wiseloaded.com_.mp3","../audio/New%20track/Pop%20Smoke%20-%20Диор.mp3","../audio/marshmello-amp-juice-wrld-bye-bye_456245133.mp3",
+        "../audio/New%20track/big-baby-tape-kizaru-big-tymers-mp3.mp3"
+      ]
+    }
+  ],
+  "UkraineHits": [
+    {
+      "name": [
+        "Parfeniuk - Провела екскурсію","Sadsvit - Силуети","Pavlo Zibrov - Новорічна Ніч","Мюслі - Вова **** іх","Interworld - metamorphosis","Mr.Kitty - After Dark","Skofka - Чути Гімн","KRBK - 24","Wellboy - Вишні","YOXDEN - Оп оп ЗСУ показує хіп хоп",
+        "Степан Гіга - Цей сон"
+      ],
+      "way": [
+        "../audio/Ukraine%20Hits/parfeniuk_-_provela_ekskursiyu_muzati.net.mp3","../audio/Ukraine%20Hits/sadsvit_-_silueti_(feat._struktura_schastya)_muzati.net.mp3","../audio/Ukraine%20Hits/pavlo_zibrov_-_novorichna_nich_muzati.net.mp3",
+        "../audio/Ukraine%20Hits/myusli_ua_-_vova_ibash__ih_blyat__muzati.net.mp3","../audio/Ukraine%20Hits/INTERWORLD_-_METAMORPHOSIS_(musmore.com).mp3","../audio/Ukraine%20Hits/Mr.Kitty_-_After_Dark.mp3","../audio/Ukraine%20Hits/skofka_-_chuti_gimn_muzati.net.mp3",
+        "../audio/Ukraine%20Hits/krbk_-_24_muzati.net.mp3","../audio/Ukraine%20Hits/wellboy_-_vishni_muzati.net.mp3", "../audio/Ukraine%20Hits/Yoxden_Vovking_Op_op_ZSU_pokazuye_Hip_hop.mp3","../audio/Ukraine%20Hits/Степан%20Гіга%20-%20Цей%20сон%20(mp3-2020.com).mp3"
+
+      ]
+    }
+  ],
+  "PopHits": [
+    {
+      "name": [
+        "Parfeniuk - Провела екскурсію","Sadsvit - Силуети","Pavlo Zibrov - Новорічна Ніч","ArrDee - Flowers","Interworld - metamorphosis","Mr.Kitty - After Dark","Skofka - Чути Гімн","Marshmello - bye by","Armani White - Billie Eilish","Gunna - pushin P",
+        "Степан Гіга - Цей сон"
+      ],
+      "way": [
+        "../audio/Ukraine%20Hits/parfeniuk_-_provela_ekskursiyu_muzati.net.mp3","../audio/Ukraine%20Hits/sadsvit_-_silueti_(feat._struktura_schastya)_muzati.net.mp3","../audio/Ukraine%20Hits/pavlo_zibrov_-_novorichna_nich_muzati.net.mp3",
+        "../audio/arrdee-flowers-say-my-name.mp3","../audio/Ukraine%20Hits/INTERWORLD_-_METAMORPHOSIS_(musmore.com).mp3","../audio/Ukraine%20Hits/Mr.Kitty_-_After_Dark.mp3","../audio/Ukraine%20Hits/skofka_-_chuti_gimn_muzati.net.mp3",
+        "../audio/marshmello-amp-juice-wrld-bye-bye_456245133.mp3","../audio/armani-white-billie-eilish_456240087.mp3", "../audio/New%20track/Gunna-pushin-P-ft-Future-Young-Thug-(HipHopKit.com).mp3","../audio/Ukraine%20Hits/Степан%20Гіга%20-%20Цей%20сон%20(mp3-2020.com).mp3"
+
+      ]
+    }
+  ],
+  "RapHits": [
+    {
+      "name": [
+        "Drake - Nonstop","KRBK - 24","Tech N9ne... - Face Off","Juice WRLD - Cigaretes","Lil Durk - Hanging","Central Cee - Let Go","Drake, 21 Savage - Rich Flex",
+        "Armani White - Billie Eilish","lil Yachty - Poland","Marshmello, Juice WRLD - Bye Bye","Future - Wait for u"
+      ],
+      "way": [
+        "../audio/Drake%20-%20Nonstop.mp3","../audio/Ukraine%20Hits/krbk_-_24_muzati.net.mp3","../audio/Tech%20N9ne,%20Joey%20Cool,%20King%20Iso,%20Dwayne%20Johnson%20-%20Face%20Off.mp3"
+      ,"../audio/JuiceWRLD-cigaretes.mp3","../audio/Lil-Durk-Hanging-With-Wolves-(HiphopKit.com).mp3","../audio/central-cee-let-go_456242163.mp3","../audio/21-savage-x-drake-rich-flex_456245357.mp3",
+        "../audio/armani-white-billie-eilish_456240087.mp3","../audio/lil-yachty-poland_456241438.mp3","../audio/marshmello-amp-juice-wrld-bye-bye_456245133.mp3","../audio/New%20track/future-wait-for-u-feat.-drake-amp-tems_456240306.mp3"
+      ]
+    }
+  ]
+}
