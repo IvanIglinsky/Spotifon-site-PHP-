@@ -27,7 +27,7 @@ function login($login, $password): void
                       h4Error.style.marginTop="15px";
                       h4Error.style.marginLeft="32%";
                        setTimeout(function () {main.insertBefore(h4Error,button)} , 3500);
-                      
+                     
              </script> ';
     }
 }
